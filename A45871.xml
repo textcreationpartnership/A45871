@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The information and examination of a smith and his journeyman, committed to Newgate by Sir William Turner knight, for conspiring the death of the King</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45871</idno>
+            <idno type="STC">Wing I163A</idno>
+            <idno type="STC">ESTC R17470</idno>
+            <idno type="EEBO-CITATION">11862150</idno>
+            <idno type="OCLC">ocm 11862150</idno>
+            <idno type="VID">50033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The information and examination of a smith and his journeyman, committed to Newgate by Sir William Turner knight, for conspiring the death of the King</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>"The information of John White, against Jennings and Saltmarsh given before Sir William Turner knight ... "</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saltmarsh, Nicholas.</term>
+               <term>White, John, fl. 1680.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50033:1"/>
+            <pb n="1" facs="tcp:50033:1" rendition="simple:additions"/>
+            <head>The Information and Examination of a <hi>SMITH</hi> and his <hi>JO<g ref="char:V">Ʋ</g>RNEYMAN.</hi> Committed to Newgate by Sir <hi>William Turner</hi> Knight, for Con<g ref="char:EOLhyphen"/>ſpiring the Death of the KING.</head>
+            <div type="part">
+               <head>The Information of <hi>John White,</hi> againſt <hi>Jennings</hi> and <hi>Saltmarſh</hi> given before Sir <hi>William Turner</hi> Knight; One of His Majeſties Juſtices of the Peace, for the City of <hi>London.</hi>
+               </head>
+               <p>
+                  <hi>JOhn White</hi> ſaith, he was Apprentice to the aforeſaid <hi>Jennings,</hi> a Lock-Smith in <hi>Jewen-ſtreet,</hi> and that <hi>Nicholas Saltmarſh</hi> the Jorneyman, about the 13th. of <hi>June</hi> laſt, came in late at Night, and entred into diſcourſe with him about the five Jeſuits that was to be tried, and other News, but <hi>Saltmarſh</hi> ſaid, if he might confide in <hi>White,</hi> he would tell him that which was News indeed.</p>
+               <p>Whereupon this Informant <hi>White</hi> promiſed ſecrecy: then <hi>Saltmarſh</hi> told <hi>White,</hi> that about the time of <hi>Colemans</hi> Execution, this Mr. <hi>Jennings</hi> would have hired him to Piſtol the King in St. <hi>James</hi>'s <hi>Park,</hi> Encouraging him that it was the way to preferment, and that there would be thoſe ready to reſcue him after the fact; and that the man was happy that did it.</p>
+               <p>This Informant <hi>White,</hi> notwithſtanding he had promiſed ſecrecy, told <hi>Saltmarſh</hi> that neither in Duty or Conſcience could he conceal this; which tended to the ruine of the King and Kingdom.</p>
+               <p>Then <hi>Saltmarſh</hi> threatned <hi>White,</hi> that if he did diſcover it he would for<g ref="char:EOLhyphen"/>ſwear it, ſo that this Informant <hi>White</hi> ſhould not be believed.</p>
+               <p>This Informant ſaith, that through ignorance, want of aſſiſtance and li<g ref="char:EOLhyphen"/>berty, he could not diſcover it in three days, at laſt asked leave of his Mr. <hi>Jen<g ref="char:EOLhyphen"/>nings</hi> to go and diſcover this Treaſon, but inſtead of aſſiſtance, <hi>Jennings</hi> his Maſter put this Informant <hi>White</hi> into <hi>Bridewell.</hi>
+               </p>
+               <p>This Informant farther ſaith, that before and after he was in <hi>Bridewell, Jen<g ref="char:EOLhyphen"/>nings</hi> tamper'd with him to deny his words, and he would diſcharge him, but this Informant <hi>White,</hi> found means in <hi>Bridewell</hi> to have <hi>Jennings</hi> and <hi>Saltmarſh</hi> to be apprehended, and brought before Sir <hi>William Turner,</hi> and gave this againſt them upon Oath.</p>
+            </div>
+            <div type="part">
+               <head>The Information of — Fellow-Apprentice with <hi>White.</hi>
+               </head>
+               <p>This Informant ſaith, that about the 13th. of <hi>June</hi> laſt, in bed he heard <hi>Saltmarſh</hi> tell <hi>White,</hi> that their Maſter <hi>Jennings</hi> would have hired him to Piſtol the King, and he concur'd in all circumſtances to the Information his Fellow Apprentice <hi>White</hi> had ſworn before.</p>
+            </div>
+            <div type="part">
+               <head>The Examination of <hi>Nicholas Saltmarſh,</hi> Jorneyman Lock Smith.</head>
+               <p>This Examinant <hi>Saltmarſh,</hi> confeſſes he came in late about the 13th of <hi>June</hi> laſt, but denies he ever mentioned Piſtolling of the King, but ſaith <hi>White</hi> be<g ref="char:EOLhyphen"/>gan a diſcourſe that he had caſt a figure, and found that this Examinant <hi>Salt<g ref="char:EOLhyphen"/>marſh</hi> and <hi>Jennings,</hi> had had ſome diſcourſe about killing the King.</p>
+               <pb n="2" facs="tcp:50033:2"/>
+               <p> This Examinant <hi>Saltmarſh</hi> farther ſaith, that <hi>White</hi> Obliged him to ſecrecy, and then propoſed, if this Examinant would ſwear, that his Maſter <hi>Jennings</hi> would have hired him to piſtol the King, it would be 500. pounds in their ways, by a Late Proclamation that offered 500. pounds to thoſe that could diſcover any that would kill the King. But this Examinant <hi>Saltmarſh</hi> would not joyn with <hi>White,</hi> and ſaith, he never had ſuch diſcourſe with his Maſter <hi>Jennings</hi> about killing the King, but ſaith, <hi>White</hi> would have drawn him in to ſwear againſt his Maſter <hi>Jennings</hi> to get 500. pounds as aboveſaid.</p>
+            </div>
+            <div type="part">
+               <head>The Examination of <hi>— Jennings</hi> Lock-Smith.</head>
+               <p>This Examinant ſaith, That he never had any Diſcourſe with his Journey<g ref="char:EOLhyphen"/>man <hi>Saltmarſh</hi> about killing the King, but owneth, that his Apprentice <hi>White</hi> asked leave to go to diſcover the Treaſon; and this Examinant ſaith, he pro<g ref="char:EOLhyphen"/>miſed to aſſiſt <hi>White,</hi> but afterwards thinking it was out of malice to <hi>Salt<g ref="char:EOLhyphen"/>marſh,</hi> and finding himſelf charged alſo, and that <hi>White</hi> went about to take a<g ref="char:EOLhyphen"/>way the Examinants Life, this Examinant was adviſed by his own Father to put his Apprentice <hi>White</hi> into <hi>Bridewell;</hi> But this Examinant <hi>Jennings</hi> utterly denies, that ever he tampered with his Apprentice <hi>White</hi> to deny his words, either before or after he was in <hi>Bridewell.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>One Mr. — made Oath unto that, as followeth.</head>
+               <p>That he was ſent for to go with <hi>Jennings</hi> and others to <hi>Bridewell,</hi> to ſee what could be done with <hi>Jennings</hi> his Apprentice <hi>White,</hi> to ſee if he would de<g ref="char:EOLhyphen"/>ny his words, and be ſorry for what he had ſaid of his Maſter, and that he would get him a diſcharge, but <hi>White</hi> perſiſted that he had ſpoken nothing but what was truth, and would not deny his words.</p>
+               <p>After ſome hours ſpent, this being the ſum of their Examinations, as near as can be remembred, <hi>Jennings</hi> and <hi>Saltmarſh</hi> were committed to <hi>Newgate</hi> upon ſuſpition of High Treaſon, to be tried next Seſſions at the <hi>Old Baily.</hi>
+               </p>
+               <p>
+                  <hi>White</hi> was remanded to <hi>Bridewell,</hi> and to be well provided for, and no friend hindred from coming to him.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
